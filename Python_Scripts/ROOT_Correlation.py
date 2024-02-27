@@ -126,7 +126,7 @@ dictionary_spin = {
 "spin_2_plus": r"$m_{Y_{2^+}}=$",
 }
 
-input_1="/Users/ruimiguelsilva/documents/madanalysis5/bin/ttH_dilep_REC5_September/Output/"
+input_1=""
 
 #------------     REC/PARTON     -------------#
 
