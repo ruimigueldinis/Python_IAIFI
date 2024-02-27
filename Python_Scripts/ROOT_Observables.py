@@ -184,7 +184,7 @@ def Running_Spin_Observable(input_directory,mass,spin,output_name,num_bins,var_p
 #------------     Directories     -------------#
 #----------------------------------------------#
 
-place="/Users/ruimiguelsilva/documents/madanalysis5/bin/ttH_dilep_REC5_September/Output/Output_ttY_Spin0Plus_0GeV/"
+place=""
 
 Top_Quark       = ["PtTopQ","EtaTopQ","PhiTopQ","mTopQ"]
 AntiTop_Quark   = ["PtTbarQ","EtaTbarQ","PhiTbarQ","mTbarQ"]
