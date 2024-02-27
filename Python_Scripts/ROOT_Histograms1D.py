@@ -151,7 +151,7 @@ def Running_Spin(input_directory, ttree, mass, spin, output_name, variables, num
 	
 activated = set_style('Latin Modern Roman',10)
 
-input_1="/Volumes/TOSHIBA_EXT/analysis_mediator_production_14tev_spin0plus0gev/"
+input_1=""
 
 variables_1=["CombDeltaR_lp_bT","CombDeltaPhi_lp_bT","CombDeltaThe_lp_bT","CombMass_lp_bT","CombDeltaR_ln_bbarTbar","CombDeltaPhi_ln_bbarTbar","CombDeltaThe_ln_bbarTbar","CombDeltaR_lp_bbarTbar","CombDeltaPhi_lp_bbarTbar","CombDeltaThe_lp_bbarTbar","CombDeltaR_ln_bT","CombDeltaPhi_ln_bT","CombDeltaThe_ln_bT"]
 
