@@ -139,7 +139,7 @@ def Running_Spin(input_directory, varA, varB, ttree, mass, spin, output_name):
 
 activated = set_style('Latin Modern Roman',10)
 
-input_1="/Users/ruimiguelsilva/documents/madanalysis5/bin/ttH_dilep_REC5_September/Output/Output_ttY_Spin0Plus_0GeV/"
+input_1=""
 
 # Define dictionary for input variable names
 dictionary_inX = {
@@ -152,7 +152,7 @@ dictionary_inY = {
     "AngHiggsTbarQ":r"$\Delta \phi_{Y, \bar{t}}$"
 }
 
-input_files="/Users/ruimiguelsilva/documents/madanalysis5/bin/ttH_dilep_REC5_September/Output/Output_ttY_Spin0Plus_0GeV/"
+input_files=""
 
 Running_Mass(input_1, "AngHiggsTopQ", "AngHiggsTbarQ", "NoCuts;1", [0,1,10,100,125,1000], "spin_0_plus", "Scalar_Mediator_Angle_HiggsTopQ_vs_HiggsTbarQ")
 Running_Mass(input_1, "AngHiggsTopQ", "AngHiggsTbarQ", "NoCuts;1", [0,1,10,100,125,1000], "spin_0_minus", "Pseudoscalar_Mediator_Angle_HiggsTopQ_vs_HiggsTbarQ")
