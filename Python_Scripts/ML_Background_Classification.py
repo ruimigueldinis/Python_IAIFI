@@ -115,7 +115,7 @@ def QuadVector_Extractor(input_directory,input_ROOT,var):
 #------------     Directories     -------------#
 #----------------------------------------------#
 
-place="/Users/ruimiguelsilva/documents/madanalysis5/bin/ttH_dilep_REC5_September/Output/haddNtuples/"
+place=""
 
 Top_Quark       = ["PtTopQ","EtaTopQ","PhiTopQ","mTopQ"]
 AntiTop_Quark   = ["PtTbarQ","EtaTbarQ","PhiTbarQ","mTbarQ"]
